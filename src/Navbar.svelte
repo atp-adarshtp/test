@@ -7,6 +7,10 @@
 		<button type="button" class="nav-btn" on:click={showForm}>
 			<i class="fas fa-plus-square">
 				add item
+				add item
+				add item
+				add item
+				
 			</i>
 		</button>
 	</div>
